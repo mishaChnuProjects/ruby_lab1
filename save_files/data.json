@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "title": "  Skoda Octavia  2019 ",
+      "generation": "   III покоління/A7 (FL)   • 1.6 TDI AT (115 к.с.)   • Base   ",
+      "price": "      15 300   $    •   598 230   грн         ",
+      "location": "  Хмельницький ( від ) ",
+      "car_mileage": " 215 тис. км "
+    },
+    {
+      "title": "  BMW X5  2023 ",
+      "generation": "   G05 (FL)   • 30d Steptronic (298 к.с.) xDrive   • M Package   ",
+      "price": "      113 900   $    •   4 452 351   грн         ",
+      "location": "  Одеса ( від ) ",
+      "car_mileage": " 1 тис. км "
+    },
+    {
+      "title": "  Audi Q3  2020 ",
+      "generation": "   F3   • 35 TFSI S-tronic (150 к.с.)   • Advanced   ",
+      "price": "      31 600   $    •   1 234 612   грн         ",
+      "location": "  Київ ( від ) ",
+      "car_mileage": " 54 тис. км "
+    },
+    {
+      "title": "  Porsche Taycan  2022 ",
+      "generation": "   I покоління   • 4S (530 к.с.)   • Base   ",
+      "price": "      100 000   $    •   3 911 000   грн         ",
+      "location": "  Одеса ( від ) ",
+      "car_mileage": " 2 тис. км "
+    },
+    {
+      "title": "  Iveco Daily груз.  2016 ",
+      "generation": "  ",
+      "price": "      27 700   $    •   1 092 211   грн         ",
+      "location": "  Луцьк ( від ) ",
+      "car_mileage": " 512 тис. км "
+    },
+    {
+      "title": "  Skoda Superb Scout  2020 ",
+      "generation": "   II покоління   • 2.0 TDI DSG (190 к.с.) 4x4   • Base   ",
+      "price": "      37 700   $    •   1 472 939   грн         ",
+      "location": "  Вінниця ( від ) ",
+      "car_mileage": " 123 тис. км "
+    },
+    {
+      "title": "  Mercedes-Benz S-Class  2017 ",
+      "generation": "   W222 (FL)   • 350d Long G-tronic (286 к.с.) 4Matic   • Base   ",
+      "price": "      62 000   $    •   2 426 060   грн         ",
+      "location": "  Київ ( від ) ",
+      "car_mileage": " 75 тис. км "
+    },
+    {
+      "title": "  Lexus GX  2022 ",
+      "generation": "   II покоління/URJ150 (2nd FL)     ",
+      "price": "      73 000   $    •   2 851 380   грн         ",
+      "location": "  Чернігів ( від ) ",
+      "car_mileage": " 30 тис. км "
+    },
+    {
+      "title": "  MAN 26.440  2011 ",
+      "generation": "  ",
+      "price": "      23 600   $    •   921 816   грн  з ПДВ        ",
+      "location": "  Хмельницький ( від ) ",
+      "car_mileage": " 888 тис. км "
+    },
+    {
+      "title": "  Mercedes-Benz Actros  2014 ",
+      "generation": "  ",
+      "price": "      28 900   $    •   1 127 100   грн  з ПДВ        ",
+      "location": "  Хмельницький ( від ) ",
+      "car_mileage": " 733 тис. км "
+    }
+  ],
+  "total_items": 10
+}
